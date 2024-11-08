@@ -13,4 +13,4 @@ During our hackathon season, we only get 3 days to complete our project so this 
 2. I need to add more section in this website like login, a section for adminestater to add question on new topic.
 3. And I might also need to work on the backend.
 
-This project have a huge scope, we can make it a online education website like gigs-for-gigs or code ninjas but it going to need a huge time and honestly I am not realy looking forword to it.
+This project have a huge scope, we can make it a online education website like gigs-for-gigs or code ninjas.
