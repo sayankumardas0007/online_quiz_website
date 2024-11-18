@@ -6,7 +6,7 @@ This is a simple Quiz Website designed to offer various quiz topics such as Poli
 # How to run the code
 Try running index.html file and you will see a basic website for online quiz system.
 
-## Click here for the Website: [**Quiz-website**](https://chan.github.io/Quiz-Website/)
+## Click here for the Website: [**Quiz-website**](https://sayankumardas0007.github.io/online_quiz_website/index.html)
 
 ## Project Structure
 
