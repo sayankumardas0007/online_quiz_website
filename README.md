@@ -1,16 +1,22 @@
-# online_quiz_website
+# Quiz-Play Website
 I took part in a hackathon competition organized by our own college Greater Kolkata College of Engineering and Management.  It was my project for the college hackathon.
 
+This is a simple Quiz Website designed to offer various quiz topics such as Politics, Nature, Geography, and General Knowledge.
+
 # How to run the code
-Try running Hone.html file and you will see a basic website for online quiz system.
+Try running index.html file and you will see a basic website for online quiz system.
 
-# How far I work on it 
-in this web site, I created 4 quiz section on 4 different topic and added 10 MCQ question in each section. I did create a section for scoring and leadbord where they can see their progress or mask on each topic.
+## Click here for the Website: [**Quiz-website**](https://chan.github.io/Quiz-Website/)
 
-# Scope for improvement
-During our hackathon season, we only get 3 days to complete our project so this project need a lot of improvement. Like-
-1. I need to work on the designing.
-2. I need to add more section in this website like login, a section for adminestater to add question on new topic.
-3. And I might also need to work on the backend.
+## Project Structure
 
-This project have a huge scope, we can make it a online education website like gigs-for-gigs or code ninjas.
+- `Home.html` - Main HTML file containing the website structure.
+- `Home.css` - CSS file for styling.
+- `Home.js` - JavaScript file for interactivity.
+- `images/` - Folder containing images for header and quiz topics.
+
+## Features
+
+- **Home Page**: Displays different quiz topics with images and a "Start" button.
+- **Quizzes**: Each quiz opens in a separate HTML file (e.g., `play.html`, `play2.html`).
+- **Responsive Design**: The layout adjusts for different screen sizes.
